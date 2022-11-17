@@ -49,3 +49,22 @@ img{
     letter-spacing: 1px;
     border-radius: 5px;
 }
+
+.dream-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: auto;
+}
+
+.experience h1{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.experience .half-width{
+    box-shadow: 0 3px 20px rgba(0,0,0,0.2);
+    margin: 3%;
+    height: auto;
+}
